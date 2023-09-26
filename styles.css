@@ -4,7 +4,7 @@
     display: grid;
     grid-template-columns: repeat(3,1fr);    
 }
-.Inner-square{
+.inner-square{
     margin: 10px;
     background-color: green; 
 }
